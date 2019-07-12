@@ -1,0 +1,14 @@
+nav {
+    height: 60px;
+    background-color: lightgray;
+}
+div {
+    display: inline-block;
+    word-spacing: 20px;
+    margin: 10 px;
+}
+nav {
+    height: 50px;
+    padding: 15px;
+    text-align: left;
+}
